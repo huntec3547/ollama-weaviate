@@ -1,0 +1,13 @@
+requests
+weaviate
+pytest
+langchain-weaviate
+openai
+tiktoken
+langchain
+langchain-core
+langchain-openai
+langchain-community
+beautifulsoup4
+fastapi
+uvicorn

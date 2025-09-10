@@ -1,0 +1,287 @@
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      Most new mutations are observed to arise in fathers, and increasing paternal age positively correlates with the risk of new variants. Interestingly, new mutations in X-linked recessive disease show elevated familial recurrence rates. In male offspring, these mutations must be inherited from mothers. We previously developed a simulation model to consider parental mosaicism as a source of transmitted mutations. In this paper, we extend and formalize the model to provide analytical results and flexible formulas. The results implicate parent of origin and parental mosaicism as central variables in recurrence risk. Consistent with empirical data, our model predicts that more transmitted mutations arise in fathers and that this tendency increases as fathers age. Notably, the lack of expansion later in the male germline determines relatively lower variance in the proportion of mutants, which decreases with paternal age. Subsequently, observation of a transmitted mutation has less impact on the expected risk for future offspring. Conversely, for the female germline, which arrests after clonal expansion in early development, variance in the mutant proportion is higher, and observation of a transmitted mutation dramatically increases the expected risk of recurrence in another pregnancy. Parental somatic mosaicism considerably elevates risk for both parents. These findings have important implications for genetic counseling and for understanding patterns of recurrence in transmission genetics. We provide a convenient online tool and source code implementing our analytical results. These tools permit varying the underlying parameters that influence recurrence risk and could be useful for analyzing risk in diverse family structures.
+    
+ Figure 1 
+ Stochastic-Process Model of Sexual Dimorphisms… 
+ Figure 1 
+ Stochastic-Process Model of Sexual Dimorphisms during Gametogenesis Phase 1: both males and females… 
+ Figure 2 
+ Analysis of the Mean and… 
+ Figure 2 
+ Analysis of the Mean and Variance of the Unconditional Proportion of Mutant Gametes… 
+ Figure 3 
+ Analysis of Recurrence Risk as… 
+ Figure 3 
+ Analysis of Recurrence Risk as a Function of Parent of Origin and Paternal… 
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      New human mutations are thought to originate in germ cells, thus making a recurrence of the same mutation in a sibling exceedingly rare. However, increasing sensitivity of genomic technologies has anecdotally revealed mosaicism for mutations in somatic tissues of apparently healthy parents. Such somatically mosaic parents might also have germline mosaicism that can potentially cause unexpected intergenerational recurrences. Here, we show that somatic mosaicism for transmitted mutations among parents of children with simplex genetic disease is more common than currently appreciated. Using the sensitivity of individual-specific breakpoint PCR, we prospectively screened 100 families with children affected by genomic disorders due to rare deletion copy-number variants (CNVs) determined to be de novo by clinical analysis of parental DNA. Surprisingly, we identified four cases of low-level somatic mosaicism for the transmitted CNV in DNA isolated from parental blood. Integrated probabilistic modeling of gametogenesis developed in response to our observations predicts that mutations in parental blood increase recurrence risk substantially more than parental mutations confined to the germline. Moreover, despite the fact that maternally transmitted mutations are the minority of alleles, our model suggests that sexual dimorphisms in gametogenesis result in a greater proportion of somatically mosaic transmitting mothers who are thus at increased risk of recurrence. Therefore, somatic mosaicism together with sexual differences in gametogenesis might explain a considerable fraction of unexpected recurrences of X-linked recessive disease. Overall, our results underscore an important role for somatic mosaicism and mitotic replicative mutational mechanisms in transmission genetics. 
+    
+ Figure 1 
+ Low-Level Combined Germline and Somatic… 
+ Figure 1 
+ Low-Level Combined Germline and Somatic Mosaicism Inferred from Familial Recurrence of SMS Family… 
+ Figure 2 
+ Low-Level Somatic Mosaicism Prospectively Identified… 
+ Figure 2 
+ Low-Level Somatic Mosaicism Prospectively Identified in Four Families (A) Microarray analysis of family… 
+ Figure 3 
+ Human Germ Cell Development (A)… 
+ Figure 3 
+ Human Germ Cell Development (A) Epiblast cells invaginate during the third week of… 
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      Nearly all of the genetic material among cells within an organism is identical. However, single-nucleotide variants (SNVs), small insertions/deletions (indels), copy-number variants (CNVs), and other structural variants (SVs) continually accumulate as cells divide during development. This process results in an organism composed of countless cells, each with its own unique personal genome. Thus, every human is undoubtedly mosaic. Mosaic mutations can go unnoticed, underlie genetic disease or normal human variation, and may be transmitted to the next generation as constitutional variants. We review the influence of the developmental timing of mutations, the mechanisms by which they arise, methods for detecting mosaic variants, and the risk of passing these mutations on to the next generation. 
+    
+
+
+          Keywords:
+        
+      
+      mosaicism; postzygotic mutation; recurrence risk; somatic mosaicism; transmission genetics.
+    
+ Figure I 
+ Use of stochastic process models… 
+ Figure I 
+ Use of stochastic process models to study mosaicism. A) A simple exponential model… 
+ Figure 1 
+ The timing of post-zygotic mutation… 
+ Figure 1 
+ The timing of post-zygotic mutation influences the distribution of mutant cells in the… 
+ Figure 2 
+ Phenotypic manifestations of mosaic mutations.… 
+ Figure 2 
+ Phenotypic manifestations of mosaic mutations. A) Inflammatory nevus affecting the left side of… 
+ Figure 3 
+ Personalized assays for detection of… 
+ Figure 3 
+ Personalized assays for detection of mosaicism. A) Structural variants including deletions, duplications and… 
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      De novo copy number variants (dnCNVs) arising at multiple loci in a personal genome have usually been considered to reflect cancer somatic genomic instabilities. We describe a multiple dnCNV (MdnCNV) phenomenon in which individuals with genomic disorders carry five to ten constitutional dnCNVs. These CNVs originate from independent formation incidences, are predominantly tandem duplications or complex gains, exhibit breakpoint junction features reminiscent of replicative repair, and show increased de novo point mutations flanking the rearrangement junctions. The active CNV mutation shower appears to be restricted to a transient perizygotic period. We propose that a defect in the CNV formation process is responsible for the "CNV-mutator state," and this state is dampened after early embryogenesis. The constitutional MdnCNV phenomenon resembles chromosomal instability in various cancers. Investigations of this phenomenon may provide unique access to understanding genomic disorders, structural variant mutagenesis, human evolution, and cancer biology.
+    
+
+
+          Keywords:
+        
+      
+      CNV; DNA replication; cancer; de novo; duplication; genomic instability; germline; mutator.
+    
+ Figure 1. The landscape of dnCNVs in… 
+ Figure 1. The landscape of dnCNVs in the five subjects; related to Data S1, S2… 
+ Figure 2. Unique features are shared by… 
+ Figure 2. Unique features are shared by dnCNVs identified from the five subjects; related to… 
+ Figure 3. Model for the CNV mutator… 
+ Figure 3. Model for the CNV mutator phenotype restricted to early development 
+ (A) A genetically… 
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      As the amount of human genomic sequence available from personal genomes and exomes has increased, so too has the observation of genomic positions having two or more alternative alleles, so-called multiallelic sites. For portions of the haploid genome that are present in more than one copy, including segmental duplications, variation at such multisite variant positions becomes even more complex. Despite the frequency of multiallelic variants, a number of commonly used resources and tools in genomic research and diagnostics do not support these multiallelic variants all together or require special modifications. Here, we explore the frequency of multiallelic sites in large samples with whole exome sequencing and discuss potential outcomes of failing to account for multiple variant alleles. We also briefly discuss some commonly utilized resources that fully support multiallelic sites. 
+    
+
+
+          Keywords:
+        
+      
+      human variation; multiallelic; paralogous sequence variant; pathogenic variant; single-nucleotide variant.
+    
+ Figure 1 
+ Observation of multiallelic positions increases… 
+ Figure 1 
+ Observation of multiallelic positions increases with cohort size. To assess the relationship between… 
+ Figure 2 
+ Alleles Not Reported in ESP… 
+ Figure 2 
+ Alleles Not Reported in ESP but Present in >0.1% of Individuals Sequenced at… 
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      Intragenic copy-number variants (CNVs) contribute to the allelic spectrum of both Mendelian and complex disorders. Although pathogenic deletions and duplications in SPAST (mutations in which cause autosomal-dominant spastic paraplegia 4 [SPG4]) have been described, their origins and molecular consequences remain obscure. We mapped breakpoint junctions of 54 SPAST CNVs at nucleotide resolution. Diverse combinations of exons are deleted or duplicated, highlighting the importance of particular exons for spastin function. Of the 54 CNVs, 38 (70%) appear to be mediated by an Alu-based mechanism, suggesting that the Alu-rich genomic architecture of SPAST renders this locus susceptible to various genome rearrangements. Analysis of breakpoint Alus further informs a model of Alu-mediated CNV formation characterized by small CNV size and potential involvement of mechanisms other than homologous recombination. Twelve deletions (22%) overlap part of SPAST and a portion of a nearby, directly oriented gene, predicting novel chimeric genes in these subjects' genomes. cDNA from a subject with a SPAST final exon deletion contained multiple SPAST:SLC30A6 fusion transcripts, indicating that SPAST CNVs can have transcriptional effects beyond the gene itself. SLC30A6 has been implicated in Alzheimer disease, so these fusion gene data could explain a report of spastic paraplegia and dementia cosegregating in a family with deletion of the final exon of SPAST. Our findings provide evidence that the Alu genomic architecture of SPAST predisposes to diverse CNV alleles with distinct transcriptional--and possibly phenotypic--consequences. Moreover, we provide further mechanistic insights into Alu-mediated copy-number change that are extendable to other loci.
+    
+ Figure 1 
+ Targeted aCGH Confirms and Maps… 
+ Figure 1 
+ Targeted aCGH Confirms and Maps CNVs in  SPAST  Array CGH log  2  plots… 
+ Figure 2 
+ CNVs in  SPAST  Rearrange Diverse… 
+ Figure 2 
+ CNVs in  SPAST  Rearrange Diverse Exons and Have Breakpoints Predominately Localizing to Pairs… 
+ Figure 3 
+ CNV Size: Skew toward Small… 
+ Figure 3 
+ CNV Size: Skew toward Small Rearrangements and Association with Breakpoint Repeat Architecture  SPAST  … 
+ Figure 4 
+ The Consensus 13-mer, CCNCCNTNNCCNC, Associated… 
+ Figure 4 
+ The Consensus 13-mer, CCNCCNTNNCCNC, Associated with Meiotic Recombination/NAHR Hotspots Is Present at Breakpoint  …  
+ Figure 5 
+ Figure 5 
+ Figure 6 
+ A Deletion of  SPAST  Exon… 
+ Figure 6 
+ A Deletion of  SPAST  Exon 17 Yields Multiple  SPAST  :  SLC30A6  Fusion Transcripts… 
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+An official website of the United States government
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+      
+      Telemedicine has long been considered as an attractive alternative methodology in clinical genetics to improve patient access and convenience. Given the importance of the dysmorphology physical examination and anthropometric measurement in clinical genetics, many have wondered if lost information would hamper diagnosis. We previously addressed this question by analyzing thousands of diagnostic encounters in a single practice involving multiple practitioners and found no evidence for a difference in new molecular diagnosis rates. However, our previous study design resulted in variability in providers between in-person and telemedicine evaluation groups. To address this in our present study, we expanded our analysis to 1104 new patient evaluations seen by one highly experienced clinical geneticist across two 10-month periods before and after the start of the COVID-19 pandemic. Comparing patients seen in-person to those seen by telemedicine, we found significant differences in race and ethnicity, preferred language, and home zip code median income. The clinical geneticist intended to send more genetic testing for those patients seen by telemedicine, but due to issues with test authorization and sample collection, there was no difference in ultimate completion rate between groups. We found no significant difference in new molecular diagnosis rate. Overall, we find telemedicine to be an acceptable alternative to in-person evaluation for routine pediatric clinical genetics care.
+    
+
+
+          Keywords:
+        
+      
+      clinical efficacy; clinical genetics; telemedicine.
+    
+Connect with NLM
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
